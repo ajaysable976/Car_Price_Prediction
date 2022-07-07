@@ -1,7 +1,7 @@
 # Car Price Predictor
 
 Project link: https://car-price-price.herokuapp.com
-Demo Video: https://youtu.be/HEaFU68WAPM
+
 
 <img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/demo.png">
 
@@ -47,4 +47,7 @@ Link for data: https://github.com/ajaysable976/Car_Price_Prediction/quikr_car.cs
 Link for notebook: https://github.com/ajaysable976/Car_Price_Prediction/car_prediction.ipynb
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
+
+# Credits 
+ Youtuber CamuspX
 
